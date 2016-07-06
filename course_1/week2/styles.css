@@ -1,0 +1,12 @@
+/*
+  Complete code in: https://github.com/aperezl/coursera-specializations/tree/master/course_1/week2
+*/
+
+h1 {
+  /* This changed Font Family with sans-serif fonts.
+     This used some fonts for compatibility between differents operating systems.
+   */
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-align: center; /* Center text */
+  background: #f5e4d5; /* Changed background color */
+}
