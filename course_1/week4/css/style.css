@@ -1,0 +1,41 @@
+/* General */
+
+.navbar-brand {
+  color: #226666;
+  font-weight: bold;
+  font-style: oblique;
+}
+
+.btn {
+  background: #226666;
+  border-color: #003333;
+}
+
+.btn:hover {
+  background: #003333;
+}
+.img-thumbnail {
+  width: 100%;
+}
+
+/* Default style */
+.jumbotron {
+  margin-top: 50px;
+  background: #226666;
+  color: #fafafa;
+}
+
+/* Style width image */
+.jumbotron.cover {
+  background: url(../images/cover.jpg);
+  background-size: cover;
+  color: #333333;
+  text-shadow: 0 0 1px #ffffff, 0 0 2px #ffffff;
+}
+
+
+footer {
+  background: #003333;
+  color: #fafafa;
+  padding: 16px 0;
+}
